@@ -403,7 +403,7 @@
 
   .jumbotron {
     padding: 100px;
-    background-image: url(/Rael&Gilang/BACK.png) ;
+    background-image: url(../../../Rael&Gilang/BACK.png) ;
     background-position: center;
     background-size: cover;
     height: 250px;
@@ -423,7 +423,7 @@
 
     .jumbotron {
       padding: 100px;
-      background-image: url(../../Rael&Gilang/BACK.png) ;
+      background-image: url(../../../Rael&Gilang/BACK.png) ;
       background-position: center;
       background-size: cover;
       height: 300px;
