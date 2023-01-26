@@ -427,7 +427,7 @@
       background-position: center;
       background-size: cover;
       height: 300px;
-      text-align: center;
+      text-align:center;
       color: #fff;
       margin-bottom: -50px;
       transition: all .5s linear;
