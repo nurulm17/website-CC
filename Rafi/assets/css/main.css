@@ -39,7 +39,7 @@ body {
 .news--main .card {
   width: 20rem;
   height: 37rem;
-  margin: 1.5rem;
+  margin: none;
   border-radius: 10px;
   position: relative;
 }
